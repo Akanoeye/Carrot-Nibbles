@@ -46,8 +46,6 @@ https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.
 
 # Author
 
-作成情報を列挙する
-
 * 作成者 : Azluvur
 * Discord : Azluvur
 
